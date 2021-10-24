@@ -11,9 +11,9 @@
 * ⚡ I’m trying to follow Clean Architecture priciples
 
 ## Some statistics 📈
-![asavt7's GitHub stats](https://github-readme-stats.vercel.app/api/?username=asavt7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![asavt7's GitHub stats](https://github-readme-stats.vercel.app/api/?username=asavt7&show_icons=true)
 
-[![asavt7's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asavt7&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+[![asavt7's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asavt7&langs_count=8&show_icons=true)]()
 
 <!--
 
