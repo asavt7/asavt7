@@ -2,13 +2,14 @@
 
 * 🇷🇺 Russia
 * 👨‍💻 Backend Developer
+* 🌱 I’m currently learning golang, backend development, highload
 * 🔭 I have experience in:
   * writing webservices on Java (Spring Boot)
   * deployment on Openshift 4
   * working with ELK Stack: Elasticsearch, Logstash, Kibana
   * writing webservices on Python
   * working on Agile\Scrum
-* ⚡ I’m trying to follow Clean Architecture priciples
+* ⚡ I’m trying to improve engineering practices (e.g.,to follow Clean Architecture priciples)
 
 ## Some statistics 📈
 ![asavt7's GitHub stats](https://github-readme-stats.vercel.app/api/?username=asavt7&show_icons=true)
