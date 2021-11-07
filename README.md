@@ -16,7 +16,7 @@
    <a href="https://github-readme-stats.vercel.app/api?username=asavt7&show_icons=true&count_private=true">
        <img height=200 src="https://github-readme-stats.vercel.app/api?username=asavt7&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/asavt7/github-readme-stats">
-       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asavt7&layout=compact"/></a>
+       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asavt7&layout=compact&langs_count=10"/></a>
 </p>
 
 
